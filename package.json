@@ -20,7 +20,8 @@
   },
   "scripts": {
     "dev": "gulp dev",
-    "build": "gulp build"
+    "build": "gulp build",
+    "deploy": "gulp deploy"
   },
   "dependencies": {
     "del": "^6.0.0",
